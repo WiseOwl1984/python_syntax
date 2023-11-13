@@ -101,4 +101,4 @@ elif char == 'C':
 else:
     res = "другой символ"
 
-print(res)
+print(res) 
